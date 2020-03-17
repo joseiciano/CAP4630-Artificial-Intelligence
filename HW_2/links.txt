@@ -1,5 +1,0 @@
-Question 1: https://colab.research.google.com/drive/1JRjr4w4zsKG90K1LSNijREsVi4MfjBaI
-
-Question 2: https://colab.research.google.com/drive/1RNIceB64SilTLdNOHDUyH3Okxv2Lxxgx
-
-Question 3: https://colab.research.google.com/drive/1F7-QUVCV-WRaOtk9HboZKd-k_qxGQge3
